@@ -1,0 +1,4 @@
+#!/usr/bin/env python3
+from py_symlink_install_test import *
+
+main()
